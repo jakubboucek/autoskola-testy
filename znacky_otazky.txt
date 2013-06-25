@@ -1,0 +1,3490 @@
+[1]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a1a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zatáèka vlevo
+ AnswB=zatáèka vpravo
+ AnswC=kruhovı objezd
+ AnswD=dvojitá zatáèka první vpravo
+ AnsIs=b
+[2]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a1b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=dvojitá zatáèka první vlevo
+ AnswB=zatáèka vpravo
+ AnswC=zatáèka vlevo
+ AnswD=nebezpeèí smyku
+ AnsIs=c
+[3]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a2a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=dvojitá zatáèka první vpravo
+ AnswB=pozor, kruhovı objezd
+ AnswC=zatáèka vpravo
+ AnswD=dvojitá zatáèka první vlevo
+ AnsIs=a
+[4]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a2b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pozor, kruhovı objezd
+ AnswB=dvojitá zatáèka první vpravo
+ AnswC=nebezpeèí smyku
+ AnswD=dvojitá zatáèka první vlevo
+ AnsIs=d
+[5]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a3.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=køiovatka
+ AnswB=zakázanı vjezd vozidel do jízdního pruhu
+ AnswC=pozor, svìtelnı køí
+ AnswD=pozor, zpomalovací práh
+ AnsIs=a
+[6]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a4.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pozor, kruhovı objezd
+ AnswB=náledí
+ AnswC=pøikázanı smìr jízdy vpravo
+ AnswD=pozor, vìtrnı vír
+ AnsIs=a
+[7]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a5a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=vjezd s nebezpeènım klesáním
+ AnswB=nebezpeèné stoupání
+ AnswC=nerovnost vozovky
+ AnswD=nebezpeèné klesání
+ AnsIs=d
+[8]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a5b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nezpevnìná krajnice
+ AnswB=nebezpeèné stoupání
+ AnswC=nebezpeèné klesání
+ AnswD=sníení rychlosti
+ AnsIs=b
+[9]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a6a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pozor, zpomalovací práh
+ AnswB=kolona
+ AnswC=zúená vozovka (z jedné strany)
+ AnswD=zúená vozovka (z obou stran)
+ AnsIs=d
+[10]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a6b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pozor, zpomalovací práh
+ AnswB=zúená vozovka (z obou stran)
+ AnswC=nerovnost vozovky
+ AnswD=zúená vozovka (z jedné strany)
+ AnsIs=d
+[11]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a7a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=upozoròìní na úmìlou nerovnost na vozovce
+ AnswB=pozor, zpomalovací práh
+ AnswC=nerovnost vozovky
+ AnswD=pozor, díry ve vozovce
+ AnsIs=ac
+[12]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a7b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nerovnost vozovky
+ AnswB=pozor, zpomalovací práh
+ AnswC=pozor, díry ve vozovce
+ AnswD=tramvajovı pás
+ AnsIs=b
+[13]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a8.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nebezpeèí smyku
+ AnswB=pozor, zpomalovací práh
+ AnswC=nerovnost vozovky
+ AnswD=kolona
+ AnsIs=a
+[14]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a9.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøednost proti jedoucích vozidel
+ AnswB=pøednost pøed protijedoucími vozidly
+ AnswC=provoz v obou smìrech
+ AnswD=smìrová tabule pro oznaèení objíïky
+ AnsIs=c
+[15]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a10.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA="volno"
+ AnswB="stùj"
+ AnswC=svìtelné signály
+ AnswD=semafor
+ AnsIs=c
+[16]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a11.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=dìti
+ AnswB=pozor, škola
+ AnswC=pozor, pøechod pro chodce
+ AnswD=zvíøata
+ AnsIs=c
+[17]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a12.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pozor, pøechod pro chodce
+ AnswB=dìti
+ AnswC=pìší zóna
+ AnswD=pozor, škola
+ AnsIs=b
+[18]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a13.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=krávy
+ AnswB=pozor, stádo
+ AnswC=upozornìní na místo nebo úsek pozemní komunikace, kde mùe docházet k èastému vıskytu domácích zvíøat na pozemní komunikaci
+ AnswD=zvíøata
+ AnsIs=cd
+[19]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a14.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zvìø
+ AnswB=jeleni
+ AnswC=upozornìní na místo nebo úsek pozemní komunikace, kde mùe docházet k èastému vıskytu zvìøe na pozemní komunikaci
+ AnswD=pozor, vysoká zvìø skákající pøes vozovku
+ AnsIs=a
+[20]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a15.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=vıkop
+ AnswB=lidé na vozovce
+ AnswC=nerovnost vozovky
+ AnswD=práce
+ AnsIs=d
+[21]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a16.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=protivítr
+ AnswB=letištì
+ AnswC=vzdušnı vír
+ AnswD=boèní vítr
+ AnsIs=d
+[22]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a17.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=padající kamení
+ AnswB=odlétávající štìrk
+ AnswC=iviènı povrch vozovky
+ AnswD=kalue
+ AnsIs=b
+[23]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a18.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=lom
+ AnswB=odlétávající štìrk
+ AnswC=padající kamení
+ AnswD=pozor, odstøel skal
+ AnsIs=c
+[24]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a19.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=motorky
+ AnswB=dej pøednost cyklistùm
+ AnswC=cyklisté
+ AnswD=stezka pro cyklisty
+ AnsIs=c
+[25]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a20.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=letadla
+ AnswB=letištì
+ AnswC=v upozornìní na místo, kde v malé vıšce nad pozemní komunikací pøelétávají letadla
+ AnswD=pøistávací dráha
+ AnsIs=ac
+[26]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a21.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zúenı vjezd
+ AnswB=pozor, tunel
+ AnswC=gará
+ AnswD=vıjezd z tunelu
+ AnsIs=b
+[27]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a22.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=náledí
+ AnswB=nebezpeèí smyku
+ AnswC=kolona
+ AnswD=jiné nebezpeèí
+ AnsIs=d
+[28]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a23.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nebezpeèí smyku
+ AnswB=kolona
+ AnswC=jiné nebezpeèí
+ AnswD=zákaz vjezdu všech motorovıch vozidel s vıjimkou motocyklù bez postranního vozíku
+ AnsIs=b
+[29]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a24.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=sníh
+ AnswB=lyaøské svahy
+ AnswC=nebezpeèí smyku
+ AnswD=náledí
+ AnsIs=d
+[30]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a25.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=tramvaj
+ AnswB=vlak
+ AnswC=eleznièní pøejezd bez závor
+ AnswD=dej pøednost v jízdì tramvaji
+ AnsIs=a
+[31]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a26.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=kolona
+ AnswB=padající kamení
+ AnswC=mlha
+ AnswD=náledí
+ AnsIs=c
+[32]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a27.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nebezpeèné klesání
+ AnswB=nehoda
+ AnswC=nebezpeèí smyku
+ AnswD=nezpevnìná krajnice
+ AnsIs=b
+[33]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a28.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nebezpeèí smyku
+ AnswB=pozor pøíkop
+ AnswC=nezpevnìná krajnice
+ AnswD=kluzká vozovka
+ AnsIs=c
+[34]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a29.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=vlak
+ AnswB=eleznièní pøejezd se závorami
+ AnswC=eleznièní vleèka
+ AnswD=eleznièní pøejezd bez závor
+ AnsIs=b
+[35]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a30.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=eleznièní pøejezd bez závor
+ AnswB=eleznièní pøejezd se závorami
+ AnswC=pozor, vlak
+ AnswD=tramvaj
+ AnsIs=a
+[36]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a31a.gif
+ ImgWd=120
+ ImgHg=300
+ AnswA=návìstní deska (240 m)
+ AnswB=návìstní deska (160 m)
+ AnswC=návìstní deska (80 m)
+ AnswD=návìstní deska (40 m)
+ AnsIs=a
+[37]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a31b.gif
+ ImgWd=120
+ ImgHg=300
+ AnswA=návìstní deska (320 m)
+ AnswB=návìstní deska (240 m)
+ AnswC=návìstní deska (160 m)
+ AnswD=návìstní deska (80 m)
+ AnsIs=c
+[38]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a31c.gif
+ ImgWd=120
+ ImgHg=300
+ AnswA=návìstní deska (40 m)
+ AnswB=návìstní deska (80 m)
+ AnswC=návìstní deska (160 m)
+ AnswD=návìstní deska (240 m)
+ AnsIs=b
+[39]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a32a.gif
+ ImgWd=275
+ ImgHg=165
+ AnswA=vıstranı køí pro eleznièní pøejezd vícekolejnı
+ AnswB=nádraí
+ AnswC=pozor, koleje
+ AnswD=vıstranı køí pro eleznièní pøejezd jednokolejnı
+ AnsIs=d
+[40]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/a32b.gif
+ ImgWd=275
+ ImgHg=220
+ AnswA=vıstranı køí pro eleznièní pøejezd vícekolejnı
+ AnswB=vıstranı køí pro eleznièní pøejezd jednokolejnı
+ AnswC=eleznièní pøejezd se závorami
+ AnswD=eleznièní pøejezd bez závor
+ AnsIs=a
+[41]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p1.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=hlavní pozemní komunikace
+ AnswB=dej pøednost v jízdì!
+ AnswC=køiovatka s vedlejší pozemní komunikací
+ AnswD=køiovatka
+ AnsIs=c
+[42]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p2.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøednost pøed protijedoucími vozidly
+ AnswB=hlavní pozemní komunikace
+ AnswC=pøednost proti jedoucích vozidel
+ AnswD=konec hlavní pozemní komunikace
+ AnsIs=b
+[43]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p3.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøednost proti jedoucích vozidel
+ AnswB=hlavní pozemní komunikace
+ AnswC=pøednost pøed protijedoucími vozidly
+ AnswD=konec hlavní pozemní komunikace
+ AnsIs=d
+[44]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p4.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøednost proti jedoucích vozidel
+ AnswB=stùj, dej pøednost v jízdì
+ AnswC=dej pøednost v jízdì tramvaji
+ AnswD=dej pøednost v jízdì!
+ AnsIs=d
+[45]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p5.gif
+ ImgWd=200
+ ImgHg=286
+ AnswA=stùj, dej pøednost v jízdì
+ AnswB=dej pøednost v jízdì!
+ AnswC=dej pøednost v jízdì tramvaji
+ AnswD=dej pøednost v jízdì mìstské hromadné dopravì osob
+ AnsIs=c
+[46]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p6.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=dej pøednost v jízdì!
+ AnswB=stùj, dej pøednost v jízdì
+ AnswC=dej pøednost v jízdì tramvaji
+ AnswD=stop
+ AnsIs=b
+[47]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p7.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøednost pøed protijedoucími vozidly
+ AnswB=pøednost proti jedoucích vozidel
+ AnswC=provoz v obou smìrech
+ AnswD=zúená vozovka (z obou stran)
+ AnsIs=b
+[48]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/p8.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zúená vozovka (z obou stran)
+ AnswB=pøednost pøed protijedoucími vozidly
+ AnswC=pøednost proti jedoucích vozidel
+ AnswD=jenosmìrnı provoz
+ AnsIs=b
+[49]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b1.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu všech vozidel (v obou smìrech)
+ AnswB=zákaz vjezdu všech vozidel
+ AnswC=zakáz vjezdu
+ AnswD=zákaz vjezdu všech motorovıch vozidel s vıjimkou motocyklù bez postranního vozíku
+ AnsIs=a
+[50]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b2.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=jednosmìrnı provoz
+ AnswB=zákaz pøedjídìní
+ AnswC=zákaz vjezdu všech vozidel (v obou smìrech)
+ AnswD=zákaz vjezdu všech vozidel
+ AnsIs=d
+[51]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b3a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu všech vozidel (v obou smìrech)
+ AnswB=zákaz vjezdu osobních automobilù
+ AnswC=zákaz vjezdu všech motorovıch vozidel s vıjimkou motocyklù bez postranního vozíku
+ AnswD=zákaz vjezdu vyznaèenıch vozidel
+ AnsIs=c
+[52]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b3b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu všech motorovıch vozidel s vıjimkou nákladních automobilù
+ AnswB=zákaz vjezdu všech motorovıch vozidel s vıjimkou osobních automobilù
+ AnswC=zákaz vjezdu osobních automobilù
+ AnswD=zákaz vjezdu všech vozidel
+ AnsIs=c
+[53]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b4.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu všech vozidel
+ AnswB=zákaz vjezdu nákladních automobilù
+ AnswC=zákaz vjezdu všech motorovıch vozidel s vıjimkou nákladních automobilù
+ AnswD=zákaz vjezdu všech motorovıch vozidel
+ AnsIs=b
+[54]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b5.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu všech motorovıch vozidel
+ AnswB=zákaz vjezdu nákladních automobilù a autobusù
+ AnswC=zákaz vjezduosobních automobilù, nákladních automobilù a autobusù
+ AnswD=zákaz vjezdu autobusù
+ AnsIs=d
+[55]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b6.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu potahovıch vozidel
+ AnswB=zákaz vjezdu traktorù
+ AnswC=zákaz vjezdu motorovıch vozidel s pøívìsem
+ AnswD=zákaz vjezdu všech motorovıch vozidel s vıjimkou traktorù
+ AnsIs=b
+[56]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b7.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu motocyklù
+ AnswB=zákaz vjezdu jízdních kol
+ AnswC=zákaz vjezdu jízdních kol a motocyklù
+ AnswD=zákaz pøedjídìní motocyklù
+ AnsIs=a
+[57]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b8.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu jízdních kol a motocyklù
+ AnswB=zákaz vjezdu
+ AnswC=zákaz vjezdu dìtí na jízdních kolech
+ AnswD=zákaz vjezdu jízdních kol
+ AnsIs=d
+[58]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b9.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu motorovıch vozidel s pøívìsem
+ AnswB=zákaz vjezdu potahovıch vozidel
+ AnswC=zákaz vjezdu koní
+ AnswD=zákaz vjezdu zvíøat
+ AnsIs=b
+[59]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b10.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu svaøeèskıch souprav
+ AnswB=zákaz vjezdu ruèních vozíkù
+ AnswC=koèárkùm vjezd dovolen
+ AnswD=pozor, ruèní vozíky
+ AnsIs=b
+[60]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b11.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu všech vozidel (v obou smìrech)
+ AnswB=zákaz vjezdu všech motorovıch vozidel
+ AnswC=zákaz vjezdu všech vozidel
+ AnswD=zákaz vjezdu osobních automobilù a motocyklù
+ AnsIs=b
+[61]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b12.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu osobních automobilù
+ AnswB=zákaz vjezdu motocyklù
+ AnswC=zákaz vjezdu vyznaèenıch vozidel
+ AnswD=zákaz vjezdu nákladních automobilù
+ AnsIs=c
+[62]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b13.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=kromì nákladních automobilù je všem ostatním vjezd dovolen
+ AnswB=zákaz vjezdu nákladních automobilù
+ AnswC=zákaz vjezdu vozidel, jejich okamitá hmotnost pøipadající na nápravu pøesahuje vyznaèenou mez
+ AnswD=zákaz vjezdu vozidel, jejich okamitá hmotnost pøesahuje vyznaèenou mez
+ AnsIs=d
+[63]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b14.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu vozidel, jejich okamitá hmotnost pøesahuje vyznaèenou mez
+ AnswB=zákaz vjezdu vozidel, jejich okamitá hmotnost pøipadající na nápravu pøesahuje vyznaèenou mez
+ AnswC=zákaz vjezdu nákladních automobilù
+ AnswD=zákaz vjezdu nákladních automobilù s tìkım nákladem
+ AnsIs=b
+[64]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b15.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu vozidel, jejich šíøka pøesahuje vyznaèenou mez
+ AnswB=zákaz vjezdu vozidel, jejich vıška pøesahuje vyznaèenou mez
+ AnswC=zákaz vjezdu vozidel nebo souprav vozidel, jejich délka pøesahuje vyznaèenou mez
+ AnswD=zákaz vjezdu vozidel, jejich okamitá hmotnost pøipadající na nápravu pøesahuje vyznaèenou mez
+ AnsIs=a
+[65]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b16.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu vozidel, jejich šíøka pøesahuje vyznaèenou mez
+ AnswB=zákaz vjezdu vozidel, jejich vıška pøesahuje vyznaèenou mez
+ AnswC=zákaz vjezdu vozidel, jejich okamitá hmotnost pøipadající na nápravu pøesahuje vyznaèenou mez
+ AnswD=zákaz vjezdu vozidel nebo souprav vozidel, jejich délka pøesahuje vyznaèenou mez
+ AnsIs=b
+[66]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b17.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu vozidel nebo souprav vozidel, jejich délka pøesahuje vyznaèenou mez
+ AnswB=zákaz vjezdu vozidel, jejich vıška pøesahuje vyznaèenou mez
+ AnswC=zákaz vjezdu vozidel, jejich šíøka pøesahuje vyznaèenou mez
+ AnswD=zákaz vjezdu nákladních automobilù
+ AnsIs=a
+[67]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b18.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu automobilu s jedy
+ AnswB=zákaz vjezdu vozidel pøepravujících náklad, kterı mùe zpùsobit zneèištìní vody
+ AnswC=zákaz vjezdu vozidel pøepravujících nebezpeènı náklad
+ AnswD=zákaz vjezdu vozidel pøepravujících sypkı materiál
+ AnsIs=c
+[68]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b19.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu automobilu s chemikáliemi
+ AnswB=zákaz vjezdu vozidel pøepravujících nebezpeènı náklad
+ AnswC=zákaz vjezdu vozidel pøepravujících náklad, kterı mùe zpùsobit zneèištìní vody
+ AnswD=zákaz vjezdu cisteren
+ AnsIs=c
+[69]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b20a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nejvyšší dovolená rychlost
+ AnswB=nejniší dovolená rychlost
+ AnswC=zákaz vjezdu vozidel, jejich vıška pøesahuje vyznaèenou mez
+ AnswD=zákaz vjezdu vozidel, jejich délka pøesahuje vyznaèenou mez
+ AnsIs=a
+[70]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b20b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nejvyšší dovolená rychlost
+ AnswB=konec nejvyšší dovolené rychlosti
+ AnswC=konec nejniší dovolené rychlosti
+ AnswD=konec zákazu pøedjídìní
+ AnsIs=b
+[71]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b21a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz pøedjídìní pro nákladní automobily
+ AnswB=zákaz pøedjídìní osobních automobilù
+ AnswC=konec zákazu pøedjídìní
+ AnswD=zákaz pøedjídìní
+ AnsIs=d
+[72]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b21b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz pøedjídìní
+ AnswB=konec zákazu pøedjídìní osobních automobilù
+ AnswC=konec zákazu pøedjídìní pro nákladní automobily
+ AnswD=konec zákazu pøedjídìní
+ AnsIs=d
+[73]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b22a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz objídìní
+ AnswB=zákaz pøedjídìní
+ AnswC=zákaz pøedjídìní pro nákladní automobily
+ AnswD=konec zákazu pøedjídìní pro nákladní automobily
+ AnsIs=c
+[74]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b22b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz pøedjídìní
+ AnswB=zákaz pøedjídìní pro nákladní automobily
+ AnswC=konec zákazu pøedjídìní pro nákladní automobily
+ AnswD=konec zákazu objídìní pro nákladní automobily
+ AnsIs=c
+[75]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b23a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz troubení
+ AnswB=zákaz zvukovıch vıstranıch znamení
+ AnswC=nemocnice
+ AnswD=zóna klidu
+ AnsIs=b
+[76]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b23b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec zákazu zvukovıch vıstranıch znamení
+ AnswB=zákaz zvukovıch vıstranıch znamení
+ AnswC=konec zákazu troubení
+ AnswD=konec zóny klidy
+ AnsIs=a
+[77]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b24a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz odboèování vlevo
+ AnswB=zákaz odboèování vpravo
+ AnswC=zákaz otáèení
+ AnswD=nebezpeèí smyku
+ AnsIs=b
+[78]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b24b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz odboèování vlevo
+ AnswB=zákaz odboèování vpravo
+ AnswC=zákaz otáèení
+ AnswD=nebezpeèí smyku
+ AnsIs=a
+[79]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b25.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz odboèování vlevo
+ AnswB=zákaz odboèování vpravo
+ AnswC=nebezpeèí smyku
+ AnswD=zákaz otáèení
+ AnsIs=d
+[80]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b26.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec zákazu pøedjídìní
+ AnswB=konec nejvyšší dovolené rychlosti
+ AnswC=konec všech zákazù
+ AnswD=odboèování dovoleno
+ AnsIs=c
+[81]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b27.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pasová kontrola
+ AnswB=celní kontrola
+ AnswC=hranice státu
+ AnswD=povinnost zastavit vozidlo
+ AnsIs=cd
+[82]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b28.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz zastavení
+ AnswB=zákaz stání
+ AnswC=zákaz stání delší ne 5 minut
+ AnswD=zákaz stání delší ne 30 minut
+ AnsIs=a
+[83]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b29.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz zastavení
+ AnswB=zákaz stání
+ AnswC=zákaz stání delší 30 ne minut
+ AnswD=vyhrazené parkovištì
+ AnsIs=b
+[84]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b30.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu pro jezdce na zvíøeti
+ AnswB=pozor, chodci
+ AnswC=jinı zákaz
+ AnswD=zákaz vstupu chodcù
+ AnsIs=d
+[85]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b31.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu nemotorovıch vozidel
+ AnswB=pozor, jezdci na zvíøeti
+ AnswC=zákaz vjezdu pro jezdce na zvíøeti
+ AnswD=jinı zákaz
+ AnsIs=c
+[86]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b32.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz zastavení
+ AnswB=zákaz stání
+ AnswC=jinı zákaz
+ AnswD=zákaz vstupu chodcù
+ AnsIs=c
+[87]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b33.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu traktorù s pøívìsem
+ AnswB=zákaz vjezdu potahovıch vozidel
+ AnswC=zákaz vjezdu motorovıch vozidel s pøívìsem
+ AnswD=zákaz vjezdu dlouhıch vozidel nebo souprav vozidel
+ AnsIs=c
+[88]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/b34.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=kolona
+ AnswB=nejmenší vzdálenost mezi vozidly
+ AnswC=nejvìtší vzdálenost mezi vozidly
+ AnswD=zákaz vjezdu vozidel nebo souprav vozidel, jejich délka pøesahuje vyznaèenou mez
+ AnsIs=b
+[89]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c1.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pozor, kruhovı objezd
+ AnswB=kruhovı objezd
+ AnswC=pøikázanı smìr jízdy vpravo
+ AnswD=zákaz odboèení doleva
+ AnsIs=b
+[90]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c2a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=jízda pøímo dovolena
+ AnswB=pøikázanı smìr jízdy pøímo
+ AnswC=zákaz odboèení vlevo
+ AnswD=zákaz odboèení vpravo
+ AnsIs=b
+[91]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c2b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr jízdy pøímo
+ AnswB=pøikázanı smìr jízdy vpravo
+ AnswC=pøikázanı smìr jízdy vlevo
+ AnswD=pøikázanı smìr objídìní vpravo
+ AnsIs=b
+[92]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c2c.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr jízdy vpravo
+ AnswB=pøikázanı smìr jízdy vlevo
+ AnswC=pøikázanı smìr objídìní vpravo
+ AnswD=pøikázanı smìr objídìní vlevo
+ AnsIs=b
+[93]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c2d.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr jízdy pøímo a vpravo
+ AnswB=pøikázanı smìr jízdy zde vlevo
+ AnswC=pøikázanı smìr jízdy zde vpravo
+ AnswD=pøikázanı smìr jízdy vpravo a vlevo
+ AnsIs=a
+[94]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c2e.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr jízdy vpravo a vlevo
+ AnswB=pøikázanı smìr jízdy zde vpravo
+ AnswC=zákaz odboèení doleva
+ AnswD=pøikázanı smìr jízdy pøímo a vlevo
+ AnsIs=d
+[95]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c2f.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr objídìní vpravo a vlevo
+ AnswB=slepá ulice
+ AnswC=pøikázanı smìr jízdy vpravo a vlevo
+ AnswD=pøikázanı smìr jízdy pøímo a vlevo
+ AnsIs=c
+[96]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c3a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr jízdy vpravo
+ AnswB=pøikázanı smìr objídìní vpravo
+ AnswC=pøikázanı smìr jízdy zde vpravo
+ AnswD=zákaz odboèení doleva
+ AnsIs=c
+[97]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c3b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz odboèení doprava
+ AnswB=pøikázanı smìr objídìní vlevo
+ AnswC=pøikázanı smìr jízdy vpravo a vlevo
+ AnswD=pøikázanı smìr jízdy zde vlevo
+ AnsIs=d
+[98]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c4a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr objídìní vlevo
+ AnswB=pøikázanı smìr objídìní vpravo
+ AnswC=pøikázanı smìr objídìní vpravo a vlevo
+ AnswD=pøikázanı smìr jízdy zde vpravo
+ AnsIs=b
+[99]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c4b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr objídìní vlevo
+ AnswB=pøikázanı smìr objídìní vpravo
+ AnswC=pøikázanı smìr objídìní vpravo a vlevo
+ AnswD=pøikázanı smìr jízdy zde vlevo
+ AnsIs=a
+[100]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c4c.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøikázanı smìr objídìní vpravo
+ AnswB=pøikázanı smìr objídìní vlevo
+ AnswC=pøikázanı smìr objídìní vpravo a vlevo
+ AnswD=pøikázanı smìr jízdy vpravo a vlevo
+ AnsIs=c
+[101]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c5a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pneuservis
+ AnswB=snìhové øetìzy
+ AnswC=snìhové øetìzy - konec
+ AnswD=pozor, ujetı sníh
+ AnsIs=b
+[102]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c5b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=snìhové øetìzy
+ AnswB=snìhové øetìzy - konec
+ AnswC=vozovka bez vrtsvy ujedìného snìhu
+ AnswD=nebezpeèí defektu pneumatiky
+ AnsIs=b
+[103]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c6a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec nejvyšší dovolené rychlosti
+ AnswB=nejvyšší dovolená rychlost
+ AnswC=nejniší dovolená rychlost
+ AnswD=doporuèená rychlost
+ AnsIs=c
+[104]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c6b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nejniší dovolená rychlost
+ AnswB=doporuèená rychlost
+ AnswC=konec doporuèené rychlosti
+ AnswD=konec nejniší dovolené rychlosti
+ AnsIs=d
+[105]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c7a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pozor, dìti
+ AnswB=pozor, chodník
+ AnswC=stezka pro chodce
+ AnswD=zákaz vjezdu
+ AnsIs=c
+[106]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c7b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec stezky
+ AnswB=konec chodníku
+ AnswC=konec stezky pro chodce
+ AnswD=konec zákazu vjezdu
+ AnsIs=c
+[107]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c8a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=stezka pro cyklisty
+ AnswB=stezka pro chodce a cyklisty
+ AnswC=stezka pro chodce
+ AnswD=zákaz vstupu chodcùm
+ AnsIs=a
+[108]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c8b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec jízdy na kole
+ AnswB=konec stezky pro chodce
+ AnswC=konec stezky pro cyklisty
+ AnswD=konec stezky pro chodce a cyklisty
+ AnsIs=c
+[109]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c9a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=stezka pro chodce a cyklisty
+ AnswB=stezka pro chodce
+ AnswC=stezka pro cyklisty
+ AnswD=zákaz vjezdu motorovıch vozidel
+ AnsIs=a
+[110]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c9b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec stezky pro chodce a cyklisty
+ AnswB=konec chodníku
+ AnswC=konec stezky
+ AnswD=konec zákazu vjezdu motorovıch vozidel
+ AnsIs=a
+[111]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c10a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=polní cesta
+ AnswB=stezka jen pro chodce
+ AnswC=stezka pro chodce a cyklisty
+ AnswD=pøechod pro chodce a pøejezd pro cyklisty
+ AnsIs=c
+[112]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c10b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec polní cesty
+ AnswB=konec stezky pro chodce
+ AnswC=konec pøechodu pro chodce a pøejezdu pro cyklisty
+ AnswD=konec stezky pro chodce a cyklisty
+ AnsIs=d
+[113]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c11a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=polní cesta
+ AnswB=stezka pro jezdce na zvíøeti
+ AnswC=pøikázanı jízdní pruh pro jezdce na zvíøeti
+ AnswD=stezka pro chodce a cyklisty
+ AnsIs=b
+[114]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c11b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec polní cesty
+ AnswB=konec stezky pro chodce
+ AnswC=pøikázaného jízdního pruhu pro jezdce na zvíøeti
+ AnswD=konec stezky pro jezdce na zvíøeti
+ AnsIs=d
+[115]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c12a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=polní cesta pro nákladní automobily
+ AnswB=pøikázanı jízdní pruh
+ AnswC=zákaz vjezdu nákladních automobilù
+ AnswD=jinı pøíkaz
+ AnsIs=b
+[116]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c12b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=konec jiného pøíkazu
+ AnswB=konec polní cesty pro nákladní automobily
+ AnswC=konec pøikázaného jízdního pruhu
+ AnswD=konec zákazu vjezdu nákladních automobilù
+ AnsIs=c
+[117]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c13a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=tunel nebo podzemní gará
+ AnswB=rozsvi
+ AnswC=rozsvi svìtla
+ AnswD=rozsvi svìtla - konec
+ AnsIs=c
+[118]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c13b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=rozsvi svìtla - konec
+ AnswB=zhasni
+ AnswC=jinı pøíkaz
+ AnswD=rozsvi svìtla
+ AnsIs=a
+[119]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c14a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=jinı pøíkaz
+ AnswB=konec jiného pøíkazu
+ AnswC=konec stezky pro cyklisty
+ AnswD=zákaz vjezdu cyklistù
+ AnsIs=a
+[120]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/c14b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=jinı pøíkaz
+ AnswB=konec zákazu vjezdu cyklistù
+ AnswC=zaèátek stezky pro cyklisty
+ AnswD=konec jiného pøíkazu
+ AnsIs=d
+[121]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip1a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zpomalovací práh
+ AnswB=jednosmìrnı provoz
+ AnswC=okruh
+ AnswD=zmìna smìru okruhu
+ AnsIs=c
+[122]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip1b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=jednosmìrnı provoz
+ AnswB=okruh
+ AnswC=zmìna smìru okruhu
+ AnswD=uspoøádání jízdních pruhù
+ AnsIs=c
+[123]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip2.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nerovnost vozovky
+ AnswB=pozor, zpomalovací práh 80 m
+ AnswC=zpomalovací práh
+ AnswD=obytná zóna
+ AnsIs=c
+[124]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip3.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=pøejezd pro cyklisty
+ AnswB=podchod nebo nadchod
+ AnswC=pøechod pro chodce
+ AnswD=pozor, pøechod pro chodce
+ AnsIs=b
+[125]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip4a.gif
+ ImgWd=320
+ ImgHg=100
+ AnswA=obousmìrnı provoz
+ AnswB=pøednost pøed protijedoucími vozidly
+ AnswC=pøikázanı smìr jízdy
+ AnswD=jednosmìrnı provoz
+ AnsIs=d
+[126]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip4b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=jednosmìrnı provoz
+ AnswB=pøednost pøed protijedoucími vozidly
+ AnswC=pøikázanı smìr jízdy
+ AnswD=pøikázanı smìr jízdy rovnì
+ AnsIs=a
+[127]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip5.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=nejvyšší dovolená rychlost
+ AnswB=konec nejniší dovolené rychlosti
+ AnswC=doporuèená rychlost
+ AnswD=nejniší dovolená rychlost
+ AnsIs=c
+[128]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip6.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=podchod nebo nadchod
+ AnswB=pøechod pro chodce
+ AnswC=pøejezd pro cyklisty
+ AnswD=vodorovné znaèení na silnici
+ AnsIs=b
+[129]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip7.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=cyklistická stezka
+ AnswB=pøechod pro chodce
+ AnswC=pozor, pøejezd pro cyklisty
+ AnswD=pøejezd pro cyklisty
+ AnsIs=d
+[130]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip8a.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=tunel
+ AnswB=konec tunelu
+ AnswC=luté a èerné pruhy
+ AnswD=šíøkou omezenı vjezd
+ AnsIs=a
+[131]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip8b.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=konec podchodu
+ AnswB=šíøkou omezenı vıjezd
+ AnswC=tunel
+ AnswD=konec tunelu
+ AnsIs=d
+[132]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip9.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=zvıšení poètu jízdních pruhù
+ AnswB=uspoøádání jízdních pruhù
+ AnswC=parkovištì
+ AnswD=nouzové stání
+ AnsIs=d
+[133]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip10a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=návìst pøed slepou pozemní komunikací
+ AnswB=slepá pozemní komunikace
+ AnswC=parkovištì
+ AnswD=jednosmìrnı provoz
+ AnsIs=b
+[134]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip10b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=návìst pøed slepou pozemní komunikací
+ AnswB=parkovištì (kolmé nebo šikmé stání)
+ AnswC=slepá pozemní komunikace
+ AnswD=nouzové stání
+ AnsIs=a
+[135]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip11a.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=nouzové stání
+ AnswB=zastavení dovoleno
+ AnswC=kryté parkovištì
+ AnswD=parkovištì
+ AnsIs=d
+[136]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip11b.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì (kolmé nebo šikmé stání)
+ AnswB=parkovištì (podélné stání)
+ AnswC=parkovištì (stání na chodníku kolmé nebo šikmé)
+ AnswD=parkovištì (èásteèné stání na chodníku kolmé nebo šikmé)
+ AnsIs=a
+[137]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip11c.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì (stání na chodníku podélné)
+ AnswB=parkovištì (èásteèné stání na chodníku podélné)
+ AnswC=parkovištì (podélné stání)
+ AnswD=kryté parkovištì
+ AnsIs=c
+[138]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip11d.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì (stání na chodníku podélné)
+ AnswB=parkovištì (stání na chodníku kolmé nebo šikmé)
+ AnswC=slepá pozemní komunikace
+ AnswD=parkovištì s parkovacím kotouèem
+ AnsIs=b
+[139]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip11e.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì (stání na chodníku podélné)
+ AnswB=parkovištì (stání na chodníku kolmé nebo šikmé)
+ AnswC=parkovištì (èásteèné stání na chodníku kolmé nebo šikmé)
+ AnswD=parkovištì (podélné stání)
+ AnsIs=a
+[140]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip11f.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì (stání na chodníku kolmé nebo šikmé)
+ AnswB=parkovištì (kolmé nebo šikmé stání)
+ AnswC=parkovištì (podélné stání)
+ AnswD=parkovištì (èásteèné stání na chodníku kolmé nebo šikmé)
+ AnsIs=d
+[141]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip11g.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì (podélné stání)
+ AnswB=parkovištì (stání na chodníku podélné)
+ AnswC=parkovištì (èásteèné stání na chodníku podélné)
+ AnswD=parkovištì (èásteèné stání na chodníku kolmé nebo šikmé)
+ AnsIs=c
+[142]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip12.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=vyhrazené parkovištì
+ AnswB=kryté parkovištì
+ AnswC=parkovištì s parkovacím kotouèem
+ AnswD=parkovištì pouze na povolení
+ AnsIs=a
+[143]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip13a.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=vyhrazené parkovištì
+ AnswB=parkovištì s parkovacím kotouèem
+ AnswC=kryté parkovištì
+ AnswD=gará
+ AnsIs=c
+[144]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip13b.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì s parkovacím automatem
+ AnswB=parkovištì s parkovacím kotouèem
+ AnswC=vyhrazená doba stání 1 hodina
+ AnswD=vyhrazené parkovištì
+ AnsIs=b
+[145]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip13c.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=parkovištì s parkovacím automatem
+ AnswB=parkovištì s parkovacím kotouèem
+ AnswC=vyhrazené parkovištì
+ AnswD=parkovištì taxíkù
+ AnsIs=a
+[146]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip13d.gif
+ ImgWd=200
+ ImgHg=271
+ AnswA=vyhrazené parkovištì
+ AnswB=parkovištì P + R
+ AnswC=oznaèení parkovištì, ze kterého lze pokraèovat prostøedkem hromadné pøepravy osob
+ AnswD=parkovištì s parkovacím automatem
+ AnsIs=bc
+[147]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip14a.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=silnice pro motorová vozidla
+ AnswB=víceproudá komunikace
+ AnswC=tunel
+ AnswD=dálnice
+ AnsIs=d
+[148]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip14b.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=konec silnice pro motorová vozidla
+ AnswB=pozor, nadjezd
+ AnswC=konec dálnice
+ AnswD=konec tunelu
+ AnsIs=c
+[149]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip15a.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=dálnice
+ AnswB=zákaz vjezdu cyklistù, potahovıch vozidel, ruèních vozíkù a pohybu chodcù
+ AnswC=konec silnice pro motorová vozidla
+ AnswD=silnice pro motorová vozidla
+ AnsIs=d
+[150]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip15b.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=konec silnice pro motorová vozidla
+ AnswB=konec tunelu
+ AnswC=konec dálnice
+ AnswD=pozor cyklisté, potahová vozidla, ruèní vozíky a chodci
+ AnsIs=a
+[151]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip16.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=zvıšení poètu jízdních pruhù
+ AnswB=sníení poètu jízdních pruhù
+ AnswC=øadící pruhy
+ AnswD=uspoøádání jízdních pruhù
+ AnsIs=d
+[152]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip17.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=zvıšení poètu jízdních pruhù
+ AnswB=sníení poètu jízdních pruhù
+ AnswC=uspoøádání jízdních pruhù
+ AnswD=øadící pruhy
+ AnsIs=c
+[153]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip18a.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=øadící pruhy
+ AnswB=sníení poètu jízdních pruhù
+ AnswC=jízdní pruh pro pomalá vozidla
+ AnswD=zvıšení poètu jízdních pruhù
+ AnsIs=d
+[154]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip18b.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=uspoøádání jízdních pruhù
+ AnswB=sníení poètu jízdních pruhù
+ AnswC=øadící pruhy
+ AnswD=støídavé øazení
+ AnsIs=b
+[155]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip18c.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=øadící pruhy
+ AnswB=uspoøádání jízdních pruhù
+ AnswC=jízdní pruh pro pomalá vozidla
+ AnswD=omezení v jízdním pruhu
+ AnsIs=c
+[156]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip19.gif
+ ImgWd=220
+ ImgHg=249
+ AnswA=øadící pruhy
+ AnswB=uspoøádání jízdních pruhù
+ AnswC=únikovı pruh
+ AnswD=pøikázané smìry jízdy
+ AnsIs=a
+[157]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip20a.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=omezení v jízdním pruhu
+ AnswB=øadící pruhy
+ AnswC=vyhrazenı jízdní pruh
+ AnswD=jízdní pruh pro pomalá vozidla
+ AnsIs=c
+[158]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip20b.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=konec vyhrazeného jízdního pruhu
+ AnswB=konec jízdního pruhu pro pomalá vozidla
+ AnswC=zákaz vjezdu autobusù do jízdního pruhu
+ AnswD=konec omezení v jízdním pruhu
+ AnsIs=a
+[159]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip21a.gif
+ ImgWd=220
+ ImgHg=312
+ AnswA=øadící pruhy
+ AnswB=vyhrazenı jízdní pruh
+ AnswC=omezení v jízdním pruhu
+ AnswD=uspoøádání jízdních pruhù
+ AnsIs=c
+[160]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip22.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=pozor, konec hlavní komunikace
+ AnswB=pøednost protijedoucích vozidel
+ AnswC=zmìna místní úpravy
+ AnswD=pøednost pøed protijedoucími vozidly
+ AnsIs=c
+[161]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip23a.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=pozor, tramvajovı pás
+ AnswB=pøedjídìní tramvaje vlevo dovoleno
+ AnswC=støídavé øazení
+ AnswD=objídìní tramvaje
+ AnsIs=d
+[162]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip23b.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=objídìní tramvaje (jízda podél tramvaje vpravo)
+ AnswB=objídìní tramvaje (jízda podél tramvaje vlevo)
+ AnswC=únikovı pruh
+ AnswD=zmìna místní úpravy
+ AnsIs=b
+[163]
+ Query=Tato dopravní znaèka
+ ImgNm=znacky/ip24.gif
+ ImgWd=220
+ ImgHg=305
+ AnswA=se nazıvá zmìna místní úpravy
+ AnswB=se nazıvá únikovı pruh
+ AnswC=se nazıvá nouzové stání
+ AnswD=informuje o únikovém pruhu, kde lze v pøípadì nouze, napøíklad pøi sníeném úèinku brzd zastavit vozidlo pomocnımi prostøedky, napøíklad protisvahem, hrubım štìrkovım povrchem
+ AnsIs=bd
+[164]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip25a.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=zákaz stání
+ AnswB=zákaz zastavení
+ AnswC=obytná zóna
+ AnswD=zóna s dopravním omezením
+ AnsIs=d
+[165]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip25b.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=konec zákazu stání
+ AnswB=konec zóny s dopravním omezením
+ AnswC=obytné zóny
+ AnswD=konec pìší zóny
+ AnsIs=b
+[166]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip26a.gif
+ ImgWd=250
+ ImgHg=194
+ AnswA=obytná zóna
+ AnswB=pìší zóna
+ AnswC=zákaz vjezdu mimo vyhrazené hodiny
+ AnswD=høištì na silnici
+ AnsIs=a
+[167]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip26b.gif
+ ImgWd=250
+ ImgHg=194
+ AnswA=zákaz her na silnici
+ AnswB=konec obytné zóny
+ AnswC=konec pìší zóny
+ AnswD=konec volného pohybu dìtí
+ AnsIs=b
+[168]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip27a.gif
+ ImgWd=220
+ ImgHg=316
+ AnswA=obytná zóna
+ AnswB=centrum zastavìné oblasti
+ AnswC=pìší zóna
+ AnswD=stezka pro chodce
+ AnsIs=
+[169]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip27b.gif
+ ImgWd=220
+ ImgHg=316
+ AnswA=konec centra zastavìné oblasti
+ AnswB=konec pìší zóny
+ AnswC=konec stezky pro chodce
+ AnswD=konec zákazu vjezdu mimo vyhrazené hodiny
+ AnsIs=b
+[170]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip28.gif
+ ImgWd=220
+ ImgHg=316
+ AnswA=konec celního prostoru
+ AnswB=nejvyšší dovolené rychlosti
+ AnswC=zaèátek pozemních komunikací Èeské republiky
+ AnswD=nejniší dovolené rychlosti
+ AnsIs=b
+[171]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ip29.gif
+ ImgWd=220
+ ImgHg=313
+ AnswA=konec jízdního pruhu
+ AnswB=uspoøádání jízdních pruhù
+ AnswC=sníení poètu jízdních pruhù
+ AnswD=støídavé øazení
+ AnsIs=d
+[172]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is1a.gif
+ ImgWd=300
+ ImgHg=123
+ AnswA=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnswB=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s dvìma cíli)
+ AnswC=smìrová tabule pro pøíjezd k dálnici (s dvìma cíli)
+ AnswD=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnsIs=a
+[173]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is1b.gif
+ ImgWd=300
+ ImgHg=143
+ AnswA=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnswB=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnswC=smìrová tabule pro pøíjezd k dálnici (s dvìma cíli)
+ AnswD=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s dvìma cíli)
+ AnsIs=c
+[174]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is1c.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnswB=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnswC=smìrová tabule pro pøíjezd k dálnici (s dvìma cíli)
+ AnswD=smìrová tabule s èíslem komunikace
+ AnsIs=b
+[175]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is1d.gif
+ ImgWd=300
+ ImgHg=111
+ AnswA=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnswB=smìrová tabule pro pøíjezd k dálnici (s dvìma cíli)
+ AnswC=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s dvìma cíli)
+ AnswD=smìrová tabule (s dvìma cíli)
+ AnsIs=b
+[176]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is2a.gif
+ ImgWd=300
+ ImgHg=129
+ AnswA=smìrová tabule (s jedním cílem)
+ AnswB=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnswC=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnswD=smìrová tabule pro pøíjezd k dálnici (s dvìma cíli)
+ AnsIs=b
+[177]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is2b.gif
+ ImgWd=300
+ ImgHg=147
+ AnswA=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s dvìma cíli)
+ AnswB=smìrová tabule pro pøíjezd k dálnici (s dvìma cíli)
+ AnswC=smìrová tabule (s jedním cílem)
+ AnswD=návìst pøed køiovatkou
+ AnsIs=a
+[178]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is2c.gif
+ ImgWd=300
+ ImgHg=84
+ AnswA=tabule s èíslem komunikace
+ AnswB=smìrová tabule (s jedním místním cílem)
+ AnswC=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnswD=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnsIs=d
+[179]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is2d.gif
+ ImgWd=300
+ ImgHg=94
+ AnswA=smìrová tabule doprava
+ AnswB=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s dvìma cíli)
+ AnswC=silnice pro motorová vozidla vpravo
+ AnswD=návìst pøed køiovatkou
+ AnsIs=b
+[180]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is3a.gif
+ ImgWd=300
+ ImgHg=118
+ AnswA=smìrová tabule (s jedním místním cílem)
+ AnswB=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnswC=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnswD=smìrová tabule (s jedním cílem)
+ AnsIs=d
+[181]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is3b.gif
+ ImgWd=300
+ ImgHg=151
+ AnswA=smìrová tabule (s dvìma místními cíli)
+ AnswB=smìrová tabule (s dvìma cíli)
+ AnswC=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s jedním cílem)
+ AnswD=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnsIs=b
+[182]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is3c.gif
+ ImgWd=300
+ ImgHg=72
+ AnswA=smìrová tabule (s jedním cílem)
+ AnswB=smìrová tabule (s dvìma cíli)
+ AnswC=smìrová tabule (s jedním místním cílem)
+ AnswD=smìrová tabule pro pøíjezd k dálnici (s jedním cílem)
+ AnsIs=a
+[183]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is3d.gif
+ ImgWd=300
+ ImgHg=96
+ AnswA=smìrová tabule (s dvìma cíli)
+ AnswB=smìrová tabule (s dvìma místními cíli)
+ AnswC=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s dvìma cíli)
+ AnswD=Vpravo - Kolín 25km, Podìbrady 8 km
+ AnsIs=a
+[184]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is4a.gif
+ ImgWd=300
+ ImgHg=123
+ AnswA=místní znaèení
+ AnswB=smìrová tabule (s jedním cílem)
+ AnswC=smìrová tabule (s jedním místním cílem)
+ AnswD=smìrová tabule k jinému cíli
+ AnsIs=c
+[185]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is4b.gif
+ ImgWd=300
+ ImgHg=150
+ AnswA=smìrová tabule (s dvìma cíli)
+ AnswB=smìrová tabule (s dvìma místními cíli)
+ AnswC=smìrová tabule pro pøíjezd k silnici pro motorová vozidla (s dvìma cíli)
+ AnswD=smìrová tabule k jinému cíli
+ AnsIs=b
+[186]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is4c.gif
+ ImgWd=300
+ ImgHg=83
+ AnswA=místní cíl vlevo
+ AnswB=smìrová tabule (s jedním cílem)
+ AnswC=smìrová tabule (s jedním místním cílem)
+ AnswD=smìrová tabule k jinému cíli
+ AnsIs=c
+[187]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is4d.gif
+ ImgWd=300
+ ImgHg=101
+ AnswA=místní cíl vpravo
+ AnswB=smìrová tabule k jinému cíli
+ AnswC=návìst pøed místní køiovatkou
+ AnswD=smìrová tabule (s dvìma místními cíli)
+ AnsIs=d
+[188]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is5.gif
+ ImgWd=300
+ ImgHg=86
+ AnswA=smìrová tabule k jinému cíli
+ AnswB=smìrová tabule (s jedním cílem)
+ AnswC=smìrová tabule (s dvìma místními cíli)
+ AnswD=vıjezd
+ AnsIs=a
+[189]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is6a.gif
+ ImgWd=300
+ ImgHg=208
+ AnswA=dálková návìst
+ AnswB=vıjezd
+ AnswC=dálnice
+ AnswD=návìst pøed køiovatkou
+ AnsIs=d
+[190]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is6b.gif
+ ImgWd=220
+ ImgHg=290
+ AnswA=dálková návìst
+ AnswB=návìst pøed køiovatkou
+ AnswC=vıjezd
+ AnswD=uspoøádání jízdních pruhù
+ AnsIs=b
+[191]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is6c.gif
+ ImgWd=400
+ ImgHg=210
+ AnswA=dálková návìst
+ AnswB=vıjezd
+ AnswC=návìst pøed køiovatkou
+ AnswD=uspoøádání jízdních pruhù
+ AnsIs=c
+[192]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is6d.gif
+ ImgWd=250
+ ImgHg=228
+ AnswA=návìst pøed køiovatkou
+ AnswB=dálková návìst
+ AnswC=vıjezd
+ AnswD=uspoøádání jízdních pruhù
+ AnsIs=a
+[193]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is6e.gif
+ ImgWd=250
+ ImgHg=188
+ AnswA=smìrová tabule
+ AnswB=uspoøádání jízdních pruhù
+ AnswC=dálková návìst
+ AnswD=návìst pøed køiovatkou
+ AnsIs=d
+[194]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is6f.gif
+ ImgWd=250
+ ImgHg=207
+ AnswA=vıjezd
+ AnswB=smìrová tabule
+ AnswC=dálková návìst
+ AnswD=návìst pøed køiovatkou
+ AnsIs=d
+[195]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is6g.gif
+ ImgWd=250
+ ImgHg=179
+ AnswA=smìrová tabule
+ AnswB=vıjezd
+ AnswC=návìst pøed køiovatkou
+ AnswD=dálková návìst
+ AnsIs=c
+[196]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is7a.gif
+ ImgWd=250
+ ImgHg=154
+ AnswA=smìrová tabule
+ AnswB=návìst pøed køiovatkou
+ AnswC=vıjezd
+ AnswD=dálková návìst
+ AnsIs=c
+[197]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is7b.gif
+ ImgWd=250
+ ImgHg=86
+ AnswA=smìrová tabule
+ AnswB=návìst pøed køiovatkou
+ AnswC=dálková návìst
+ AnswD=vıjezd
+ AnsIs=d
+[198]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is8a.gif
+ ImgWd=250
+ ImgHg=154
+ AnswA=návìst pøed køiovatkou
+ AnswB=dálková návìst
+ AnswC=smìrová tabule
+ AnswD=vıjezd
+ AnsIs=b
+[199]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is8b.gif
+ ImgWd=250
+ ImgHg=156
+ AnswA=dálková návìst
+ AnswB=návìst pøed køiovatkou
+ AnswC=blízká návìst
+ AnswD=vıjezd
+ AnsIs=a
+[200]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is9a.gif
+ ImgWd=250
+ ImgHg=184
+ AnswA=smìrová tabule
+ AnswB=tvar køiovatky
+ AnswC=návìst pøed køiovatkou
+ AnswD=vıjezd
+ AnsIs=c
+[201]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is9b.gif
+ ImgWd=250
+ ImgHg=225
+ AnswA=návìst pøed køiovatkou
+ AnswB=pozor, kruhovı objezd
+ AnswC=tvar køiovatky
+ AnswD=blízká návìst
+ AnsIs=a
+[202]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is9c.gif
+ ImgWd=180
+ ImgHg=265
+ AnswA=dálková návìst
+ AnswB=blízká návìst
+ AnswC=vıjezd
+ AnswD=návìst pøed køiovatkou
+ AnsIs=d
+[203]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is9d.gif
+ ImgWd=180
+ ImgHg=250
+ AnswA=dálková návìst
+ AnswB=tvar køiovatky
+ AnswC=návìst pøed køiovatkou
+ AnswD=pozor, kruhovı objezd
+ AnsIs=c
+[204]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is9e.gif
+ ImgWd=250
+ ImgHg=176
+ AnswA=návìst pøed køiovatkou
+ AnswB=dálková návìst
+ AnswC=tvar køiovatky
+ AnswD=pozor, kruhovı objezd
+ AnsIs=a
+[205]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is10a.gif
+ ImgWd=220
+ ImgHg=319
+ AnswA=návìst pøed objíïkou
+ AnswB=blízká návìst
+ AnswC=návìst zmìny smìru jízdy
+ AnswD=návìst zmìny smìru jízdy s omezením
+ AnsIs=c
+[206]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is10b.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=návìst zmìny smìru jízdy s omezením
+ AnswB=návìst zmìny smìru jízdy
+ AnswC=návìst pøed objíïkou
+ AnswD=blízká návìst
+ AnsIs=b
+[207]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is10c.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=návìst zmìny smìru jízdy s omezením
+ AnswB=blízká návìst
+ AnswC=návìst pøed objíïkou
+ AnswD=návìst zmìny smìru jízdy
+ AnsIs=d
+[208]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is10d.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=návìst zmìny smìru jízdy s omezením
+ AnswB=návìst zmìny smìru jízdy
+ AnswC=návìst pøed objíïkou
+ AnswD=blízká návìst
+ AnsIs=a
+[209]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is11a.gif
+ ImgWd=220
+ ImgHg=322
+ AnswA=blízká návìst
+ AnswB=návìst zmìny smìru jízdy
+ AnswC=návìst pøed objíïkou
+ AnswD=dálková návìst
+ AnsIs=c
+[210]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is11b.gif
+ ImgWd=300
+ ImgHg=78
+ AnswA=jinı název
+ AnswB=smìrová tabule pro vyznaèení objíïky
+ AnswC=smìrová tabule (s jedním místním cílem)
+ AnswD=smìrová tabule (s jedním cílem)
+ AnsIs=b
+[211]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is11c.gif
+ ImgWd=200
+ ImgHg=67
+ AnswA=blízká návìst
+ AnswB=smìrová tabule (s jedním místním cílem)
+ AnswC=smìrová tabule pro vyznaèení objíïky
+ AnswD=smìrová tabule pro cyklisty
+ AnsIs=c
+[212]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is11d.gif
+ ImgWd=300
+ ImgHg=79
+ AnswA=smìrová tabule pro vyznaèení objíïky
+ AnswB=smìrová tabule (s jedním místním cílem)
+ AnswC=blízká návìst
+ AnswD=smìrová tabule pro cyklisty
+ AnsIs=a
+[213]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is12a.gif
+ ImgWd=220
+ ImgHg=116
+ AnswA=návìst
+ AnswB=blízká návìst
+ AnswC=hranice územního celku
+ AnswD=obec
+ AnsIs=d
+[214]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is12b.gif
+ ImgWd=220
+ ImgHg=116
+ AnswA=konec obce
+ AnswB=konec hranice územního celku
+ AnswC=konec sníené rychlosti
+ AnswD=smìrová tabule
+ AnsIs=a
+[215]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is13.gif
+ ImgWd=220
+ ImgHg=117
+ AnswA=obec
+ AnswB=blízká návìst
+ AnswC=hranice územního celku
+ AnswD=kilometrovník
+ AnsIs=b
+[216]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is14.gif
+ ImgWd=220
+ ImgHg=118
+ AnswA=obec
+ AnswB=hranice územního celku
+ AnswC=dodatková tabule
+ AnswD=jinı název
+ AnsIs=b
+[217]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is15a.gif
+ ImgWd=130
+ ImgHg=62
+ AnswA=blízká návìst
+ AnswB=hranice územního celku
+ AnswC=dodatková tabule
+ AnswD=jinı název
+ AnsIs=d
+[218]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is15b.gif
+ ImgWd=130
+ ImgHg=95
+ AnswA=jinı název
+ AnswB=hranice územního celku
+ AnswC=dodatková tabule
+ AnswD=blízká návìst
+ AnsIs=a
+[219]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is16a.gif
+ ImgWd=150
+ ImgHg=99
+ AnswA=silnice pro mezinárodní provoz
+ AnswB=dálnice
+ AnswC=silnice I. tøídy
+ AnswD=silnice II. Tøídy
+ AnsIs=b
+[220]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is16b.gif
+ ImgWd=150
+ ImgHg=95
+ AnswA=silnice pro mezinárodní provoz
+ AnswB=dálnice
+ AnswC=silnice I. tøídy
+ AnswD=silnice II. Tøídy
+ AnsIs=c
+[221]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is16c.gif
+ ImgWd=150
+ ImgHg=94
+ AnswA=dálnice
+ AnswB=silnice pro mezinárodní provoz
+ AnswC=silnice II. Tøídy
+ AnswD=silnice I. tøídy
+ AnsIs=d
+[222]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is16d.gif
+ ImgWd=150
+ ImgHg=94
+ AnswA=silnice I. tøídy
+ AnswB=silnice II. Tøídy
+ AnswC=silnice pro mezinárodní provoz
+ AnswD=kilometrovník
+ AnsIs=b
+[223]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is17.gif
+ ImgWd=150
+ ImgHg=94
+ AnswA=silnice I. tøídy
+ AnswB=silnice II. Tøídy
+ AnswC=silnice pro mezinárodní provoz
+ AnswD=dálnice
+ AnsIs=c
+[224]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is18a.gif
+ ImgWd=150
+ ImgHg=83
+ AnswA=dálnice
+ AnswB=silnice II. Tøídy
+ AnswC=kilometrovník
+ AnswD=smìrová tabulka pro cyklisty
+ AnsIs=c
+[225]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is18b.gif
+ ImgWd=210
+ ImgHg=77
+ AnswA=smìrová tabulka pro cyklisty
+ AnswB=silnice II. Tøídy
+ AnswC=dálnice
+ AnswD=kilometrovník
+ AnsIs=d
+[226]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is19a.gif
+ ImgWd=300
+ ImgHg=123
+ AnswA=kilometrovník
+ AnswB=smìrová tabule pro cyklisty (s jedním cílem)
+ AnswC=smìrová tabule (s jedním cílem)
+ AnswD=smìrová tabulka pro cyklisty
+ AnsIs=b
+[227]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is19b.gif
+ ImgWd=300
+ ImgHg=153
+ AnswA=smìrová tabulka pro cyklisty
+ AnswB=smìrová tabule pro cyklisty (s dvìma cíli)
+ AnswC=smìrová tabule pro cyklisty (s jedním cílem)
+ AnswD=kilometrovník
+ AnsIs=b
+[228]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is19c.gif
+ ImgWd=300
+ ImgHg=80
+ AnswA=smìrová tabule pro cyklisty (s jedním cílem)
+ AnswB=cyklistická stezka vpravo
+ AnswC=návìst pøed køiovatkou pro cyklisty
+ AnswD=stezka pro cyklisty
+ AnsIs=a
+[229]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is19d.gif
+ ImgWd=300
+ ImgHg=96
+ AnswA=návìst pøed køiovatkou pro cyklisty
+ AnswB=cyklistická stezka
+ AnswC=kilometrovník
+ AnswD=smìrová tabule pro cyklisty (s dvìma cíli)
+ AnsIs=d
+[230]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is20.gif
+ ImgWd=220
+ ImgHg=258
+ AnswA=cyklistická stezka
+ AnswB=návìst pøed køiovatkou pro cyklisty
+ AnswC=smìrová tabulka pro cyklisty
+ AnswD=smìrová tabule pro cyklisty (s dvìma cíli)
+ AnsIs=b
+[231]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is21a.gif
+ ImgWd=150
+ ImgHg=105
+ AnswA=smìrová tabulka pro cyklisty
+ AnswB=smìrová tabule pro cyklisty (s jedním cílem)
+ AnswC=kilometrovník
+ AnswD=silnice III. Tøídy
+ AnsIs=a
+[232]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is21b.gif
+ ImgWd=150
+ ImgHg=105
+ AnswA=kilometrovník
+ AnswB=smìrová tabule pro cyklisty (s jedním cílem)
+ AnswC=smìrová tabulka pro cyklisty
+ AnswD=silnice III. Tøídy
+ AnsIs=c
+[233]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is21c.gif
+ ImgWd=150
+ ImgHg=105
+ AnswA=kilometrovník
+ AnswB=silnice V. Tøídy
+ AnswC=smìrová tabule pro cyklisty (s jedním cílem)
+ AnswD=smìrová tabulka pro cyklisty
+ AnsIs=d
+[234]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is22a.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=smìrová tabule
+ AnswB=oznaèení názvu ulice
+ AnswC=hranice územního celku
+ AnswD=smìrová tabule pro vyznaèení objíïky
+ AnsIs=b
+[235]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is22b.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=oznaèení názvu ulice
+ AnswB=smìrová tabule
+ AnswC=smìrová tabule pro vyznaèení objíïky
+ AnswD=jinı název
+ AnsIs=a
+[236]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is22c.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=hranice územního celku
+ AnswB=smìrová tabule
+ AnswC=kulturní nebo turistickı cíl
+ AnswD=oznaèení názvu ulice
+ AnsIs=d
+[237]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is22d.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=smìrová tabule pro vyznaèení objíïky
+ AnswB=smìrová tabule
+ AnswC=oznaèení názvu ulice
+ AnswD=jinı název
+ AnsIs=c
+[238]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is22e.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=oznaèení názvu ulice
+ AnswB=smìrová tabule
+ AnswC=smìrová tabule (s jedním místním cílem)
+ AnswD=hranice územního celku
+ AnsIs=a
+[239]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is22f.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=smìrová tabule
+ AnswB=oznaèení názvu ulice
+ AnswC=smìrová tabule (s jedním místním cílem)
+ AnswD=jinı název
+ AnsIs=b
+[240]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is23.gif
+ ImgWd=300
+ ImgHg=198
+ AnswA=komunální cíl
+ AnswB=návìst pøed køiovatkou pro cyklisty
+ AnswC=kulturní nebo turistickı cíl - návìst
+ AnswD=smìrová tabule pro cyklisty
+ AnsIs=c
+[241]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is24a.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=smìrová tabulka pro cyklisty
+ AnswB=kulturní nebo turistickı cíl
+ AnswC=oznaèení názvu ulice
+ AnswD=návìst pøed køiovatkou pro cyklisty
+ AnsIs=b
+[242]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is24b.gif
+ ImgWd=300
+ ImgHg=80
+ AnswA=návìst pøed køiovatkou pro cyklisty
+ AnswB=komunální cíl
+ AnswC=oznaèení názvu ulice
+ AnswD=kulturní nebo turistickı cíl
+ AnsIs=d
+[243]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/is24c.gif
+ ImgWd=300
+ ImgHg=89
+ AnswA=komunální cíl
+ AnswB=kulturní nebo turistickı cíl
+ AnswC=smìrová tabulka pro cyklisty
+ AnswD=oznaèení názvu ulice
+ AnsIs=a
+[244]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij1.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=první pomoc
+ AnswB=místo pro odpoèinek
+ AnswC=policie
+ AnswD=pozor, policie
+ AnsIs=c
+[245]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij2.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=nemocnice
+ AnswB=první pomoc
+ AnswC=hotel nebo motel
+ AnswD=informace
+ AnsIs=a
+[246]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij3.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=køiovatka
+ AnswB=nemocnice
+ AnswC=tvar køiovatky
+ AnswD=první pomoc
+ AnsIs=d
+[247]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij4a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zastávka autobusu
+ AnswB=zastávka
+ AnswC=zastávka trolejbusu
+ AnswD=nemocnice
+ AnsIs=b
+[248]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij4b.gif
+ ImgWd=200
+ ImgHg=201
+ AnswA=zastávka autobusu
+ AnswB=zastávka trolejbusu
+ AnswC=zastávka
+ AnswD=policie
+ AnsIs=c
+[249]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij4c.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=nádraí
+ AnswB=zastávka tramvaje
+ AnswC=zastávka trolejbusu
+ AnswD=zastávka autobusu
+ AnsIs=d
+[250]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij4d.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=informace
+ AnswB=zastávka tramvaje
+ AnswC=zastávka trolejbusu
+ AnswD=eleznièní vleèka
+ AnsIs=b
+[251]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij4e.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=pozor, elektrické vedení
+ AnswB=zastávka tramvaje
+ AnswC=zastávka trolejbusu
+ AnswD=pozor trolej
+ AnsIs=c
+[252]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij5.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=internet
+ AnswB=telefon
+ AnswC=dopravní instrukce
+ AnswD=informace
+ AnsIs=d
+[253]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij6.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=telefon
+ AnswB=opravna
+ AnswC=policie
+ AnswD=povolení k provozování mobilních telefonù
+ AnsIs=a
+[254]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij7.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=opravna
+ AnswB=nafta
+ AnswC=èerpací stanice
+ AnswD=benzín
+ AnsIs=c
+[255]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij8.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=stanice technické kontroly
+ AnswB=hotel nebo motel
+ AnswC=pneuservis
+ AnswD=opravna
+ AnsIs=d
+[256]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij9.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=pneuservis
+ AnswB=stanice technické kontroly
+ AnswC=opravna
+ AnswD=obèerstvení
+ AnsIs=b
+[257]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij10.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=restaurace
+ AnswB=místo pro odpoèinek
+ AnswC=hotel nebo motel
+ AnswD=obèerstvení
+ AnsIs=
+[258]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij11a.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=restaurace
+ AnswB=místo pro odpoèinek
+ AnswC=hotel nebo motel
+ AnswD=obèerstvení
+ AnsIs=a
+[259]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij11b.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=restaurace
+ AnswB=místo pro odpoèinek
+ AnswC=hotel nebo motel
+ AnswD=obèerstvení
+ AnsIs=d
+[260]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij12.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=stanice technické kontroly
+ AnswB=wc
+ AnswC=místo pro odpoèinek
+ AnswD=táboøištì pro stany
+ AnsIs=b
+[261]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij13.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=místo pro odpoèinek
+ AnswB=táboøištì pro stany
+ AnswC=táboøištì pro obytné pøívìsy
+ AnswD=hotel nebo motel
+ AnsIs=a
+[262]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij14a.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=místo pro odpoèinek
+ AnswB=táboøištì pro stany a pro obytné pøívìsy
+ AnswC=táboøištì pro obytné pøívìsy
+ AnswD=táboøištì pro stany
+ AnsIs=d
+[263]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij14b.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=táboøištì pro obytné pøívìsy
+ AnswB=táboøištì pro stany a pro obytné pøívìsy
+ AnswC=obèerstvení
+ AnswD=místo pro odpoèinek
+ AnsIs=a
+[264]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij14c.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=táboøištì pro obytné pøívìsy
+ AnswB=táboøištì pro stany a pro obytné pøívìsy
+ AnswC=táboøištì pro stany
+ AnswD=místo pro odpoèinek
+ AnsIs=b
+[265]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/ij15.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=policie
+ AnswB=informace
+ AnswC=dopravní vysílání
+ AnswD=kmitoèet CB stanic
+ AnsIs=c
+[266]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e1.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=poèet
+ AnswB=vzdálenost
+ AnswC=délka
+ AnswD=dodatková tabulka
+ AnsIs=ad
+[267]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e2a.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=dodatková tabulka
+ AnswB=tvar køiovatky
+ AnswC=podélná èára souvislá
+ AnswD=køiovatka
+ AnsIs=ab
+[268]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e2b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=dodatková tabulka
+ AnswB=køiovatka
+ AnswC=køíení pozemní komunikace s dráhou
+ AnswD=tvar køiovatky
+ AnsIs=ad
+[269]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e2c.gif
+ ImgWd=267
+ ImgHg=200
+ AnswA=køiovatka
+ AnswB=podélná èára souvislá
+ AnswC=tvar køiovatky
+ AnswD=dodatková tabulka
+ AnsIs=cd
+[270]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e2d.gif
+ ImgWd=200
+ ImgHg=267
+ AnswA=pozor, køiovatka
+ AnswB=tvar dvou køiovatek
+ AnswC=dodatková tabulka
+ AnswD=køíení pozemní komunikace s dráhou
+ AnsIs=bc
+[271]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e3a.gif
+ ImgWd=200
+ ImgHg=73
+ AnswA=vzdálenost
+ AnswB=délka úseku
+ AnswC=celková hmotnost
+ AnswD=zaèátek úseku
+ AnsIs=a
+[272]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e3b.gif
+ ImgWd=200
+ ImgHg=73
+ AnswA=zaèátek úseku
+ AnswB=délka úseku
+ AnswC=vzdálenost
+ AnswD=celková hmotnost
+ AnsIs=c
+[273]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e4.gif
+ ImgWd=200
+ ImgHg=73
+ AnswA=vzdálenost
+ AnswB=úsek platnosti
+ AnswC=zaèátek úseku
+ AnswD=délka úseku
+ AnsIs=d
+[274]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e5.gif
+ ImgWd=200
+ ImgHg=73
+ AnswA=vzdálenost
+ AnswB=zákaz vjezdu vozidel, jejich okamitá hmotnost pøipadající na nápravu pøesahuje vyznaèenou mez
+ AnswC=zákaz vjezdu vozidel, jejich okamitá hmotnost pøesahuje vyznaèenou mez
+ AnswD=celková hmotnost
+ AnsIs=d
+[275]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e6.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=za sucha
+ AnswB=vlhká vozovka
+ AnswC=za mokra
+ AnswD=za deštì
+ AnsIs=c
+[276]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e7a.gif
+ ImgWd=200
+ ImgHg=125
+ AnswA=smìrová šipka
+ AnswB=zaèátek úseku
+ AnswC=prùbìh úseku
+ AnswD=pøikázanı smìr jízdy
+ AnsIs=a
+[277]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e7b.gif
+ ImgWd=200
+ ImgHg=125
+ AnswA=zaèátek úseku
+ AnswB=smìrová šipka
+ AnswC=prùbìh úseku
+ AnswD=pøikázanı smìr jízdy
+ AnsIs=
+[278]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e8a.gif
+ ImgWd=73
+ ImgHg=200
+ AnswA=úsek platnosti
+ AnswB=zaèátek úseku
+ AnswC=prùbìh úseku
+ AnswD=konec úseku
+ AnsIs=b
+[279]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e8b.gif
+ ImgWd=73
+ ImgHg=200
+ AnswA=prùbìh úseku
+ AnswB=konec úseku
+ AnswC=zaèátek úseku
+ AnswD=úsek platnosti
+ AnsIs=a
+[280]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e8c.gif
+ ImgWd=73
+ ImgHg=200
+ AnswA=úsek platnosti
+ AnswB=úsek platnosti
+ AnswC=zaèátek úseku
+ AnswD=konec úseku
+ AnsIs=d
+[281]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e8d.gif
+ ImgWd=200
+ ImgHg=73
+ AnswA=smìrová šipka
+ AnswB=úsek platnosti
+ AnswC=pøikázanı smìr jízdy
+ AnswD=dodatková tabulka
+ AnsIs=bd
+[282]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e8e.gif
+ ImgWd=200
+ ImgHg=73
+ AnswA=úsek platnosti
+ AnswB=smìrová šipka
+ AnswC=prùbìh úseku
+ AnswD=dodatková tabulka
+ AnsIs=ad
+[283]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e9.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=zákaz vjezdu mákladních automobilù
+ AnswB=vyhrazenı dopravní pruh
+ AnswC=druh vozidla
+ AnswD=pozor, vıjezd nákladních automobilù
+ AnsIs=c
+[284]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e10.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=tvar køiovatky
+ AnswB=nechránìnı eleznièní pøejezd
+ AnswC=eleznièní vleèka
+ AnswD=tvar køíení pozemní komunikace s dráhou
+ AnsIs=d
+[285]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e11.gif
+ ImgWd=200
+ ImgHg=130
+ AnswA=parkovištì s parkovacím automatem
+ AnswB=bez poplatku
+ AnswC=vıbìr dálnièních poplatkù
+ AnswD=upoutej se pásy
+ AnsIs=b
+[286]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/e12.gif
+ ImgWd=286
+ ImgHg=200
+ AnswA=text
+ AnswB=povolení vjezdu
+ AnswC=zákaz vjezdu
+ AnswD=dodatková tabulka
+ AnsIs=ad
+[287]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v1a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=zákaz objídìní
+ AnswB=podélná èára pøerušovaná
+ AnswC=podélná èára souvislá
+ AnswD=dvojitá podélná èára souvislá
+ AnsIs=c
+[288]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v1b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=dvojitá podélná èára souvislá
+ AnswB=podélná èára souvislá
+ AnswC=vodící èára
+ AnswD=dvojitá podélná èára pøerušovaná
+ AnsIs=a
+[289]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v2a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=parkovací pruh
+ AnswB=vodící èára
+ AnswC=dvojitá podélná èára pøerušovaná
+ AnswD=podélná èára pøerušovaná
+ AnsIs=d
+[290]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v2b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=pøíèná èára souvislá
+ AnswB=podélná èára pøerušovaná
+ AnswC=dvojitá podélná èára pøerušovaná
+ AnswD=parkovací pruh
+ AnsIs=b
+[291]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v2c.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=pøíèná èára souvislá
+ AnswB=podélná èára pøerušovaná
+ AnswC=dvojitá podélná èára pøerušovaná
+ AnswD=parkovací pruh
+ AnsIs=c
+[292]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v3.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=podélná èára souvislá doplnìná èárou pøerušovanou
+ AnswB=dvojitá podélná èára pøerušovaná
+ AnswC=podélná èára pøerušovaná
+ AnswD=dvojitá podélná èára souvislá
+ AnsIs=a
+[293]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v4.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=dvojitá podélná èára souvislá
+ AnswB=odboèka
+ AnswC=vodící èára
+ AnswD=únikovı pruh
+ AnsIs=c
+[294]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v5.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=pøíèná èára souvislá se symbolem "Dej pøednost v jízdì!"
+ AnswB=pøíèná èára souvislá
+ AnswC=pøechod pro chodce
+ AnswD=podélná èára souvislá
+ AnsIs=b
+[295]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v6a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=zastav pøed pøechodem pro chodce
+ AnswB=trojúhelník
+ AnswC=pøíèná èára souvislá s nápisem STOP
+ AnswD=pøíèná èára souvislá se symbolem "Dej pøednost v jízdì!"
+ AnsIs=d
+[296]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v6b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=dej pøednost chodcùm
+ AnswB=pøíèná èára souvislá s nápisem STOP
+ AnswC=pøíèná èára souvislá se symbolem "Dej pøednost v jízdì!"
+ AnswD=zákaz stání
+ AnsIs=b
+[297]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v7.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=podélné stání
+ AnswB=pøejezd pro cyklisty
+ AnswC=pøechod pro chodce
+ AnswD=podélná èára souvislá
+ AnsIs=c
+[298]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v8.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=pøechod pro chodce
+ AnswB=pøejezd pro cyklisty
+ AnswC=pøíèná èára souvislá
+ AnswD=kolmé stání
+ AnsIs=b
+[299]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v9a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=vyhrazené jízdní pruhy
+ AnswB=uspoøádání jízdních pruhù
+ AnswC=prùbìné šipky
+ AnswD=smìrové šipky
+ AnsIs=d
+[300]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v9b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=prùbìné šipky
+ AnswB=smìrové šipky
+ AnswC=støídavé øazení
+ AnswD=zákaz pøedjídìní
+ AnsIs=a
+[301]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v9c.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=støídavé øazení
+ AnswB=smìrové šipky
+ AnswC=prùbìné šipky
+ AnswD=zákaz pøedjídìní
+ AnsIs=c
+[302]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v10a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=stání podélné
+ AnswB=stání kolmé
+ AnswC=stání šikmé
+ AnswD=parkovací pruh
+ AnsIs=a
+[303]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v10b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=stání podélné
+ AnswB=stání šikmé
+ AnswC=stání kolmé
+ AnswD=parkovací pruh
+ AnsIs=c
+[304]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v10c.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=stání podélné
+ AnswB=stání šikmé
+ AnswC=stání kolmé
+ AnswD=parkovací pruh
+ AnsIs=b
+[305]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v10d.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=vyhrazenı pruh
+ AnswB=zákaz zastavení
+ AnswC=zákaz stání
+ AnswD=parkovací pruh
+ AnsIs=d
+[306]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v10e.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=vyhrazené parkovištì pro vozidlo pøepravující osobu tìce postienou nebo osobu tìce pohybovì postienou
+ AnswB=vyhrazené parkovištì
+ AnswC=èasovì omezené stání
+ AnswD=zastávka
+ AnsIs=b
+[307]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v10f.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=èasovì omezené stání
+ AnswB=podélné stání
+ AnswC=vyhrazené parkovištì pro vozidlo pøepravující osobu tìce postienou nebo osobu tìce pohybovì postienou
+ AnswD=zastávka pro vozidla pøepravující osoby tìce postiené nebo osoby tìce pohybovì postiené
+ AnsIs=
+[308]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v10g.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=èasovì omezené stání
+ AnswB=vyhrazené parkovištì
+ AnswC=podélné stání
+ AnswD=vyznaèení prostoru na komunikaci zneèištìného ropnımi produkty
+ AnsIs=a
+[309]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v11a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=zastávka tramvaje
+ AnswB=vyhrazenı jízdní pruh
+ AnswC=nápis na vozovce
+ AnswD=zastávka autobusu nebo trolejbusu
+ AnsIs=d
+[310]
+ Query=Dopravní znaèkou se oznaèuje
+ ImgNm=znacky/v11b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=zastávka tramvaje
+ AnswB=zastávka autobusu nebo trolejbusu
+ AnswC=nápis na vozovce
+ AnswD=lutá klikatá èára
+ AnsIs=a
+[311]
+ Query=Tato vodorovná dopravní znaèka
+ ImgNm=znacky/v12a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=vyznaèuje plochu, na kterou øidiè nesmí vjet,  pokud je za touto plochou taková dopravní situace, e by byl nucen zastavit vozidlo na vyznaèené ploše
+ AnswB=vyhrazené parkovištì
+ AnswC=je lutá klikatá èára
+ AnswD=vyznaèuje plochu, kde je zakázáno stání
+ AnsIs=cd
+[312]
+ Query=Tato vodorovná dopravní znaèka
+ ImgNm=znacky/v12b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=je lutá klikatá èára
+ AnswB=luté zkøíené èáry
+ AnswC=vyznaèuje plochu, kde je zakázáno otáèení
+ AnswD=vyznaèuje plochu, na kterou øidiè nesmí vjet,  pokud je za touto plochou taková dopravní situace, e by byl nucen zastavit vozidlo na vyznaèené ploše
+ AnsIs=bd
+[313]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v12c.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=upozornìní na místo vyadující zvıšenou opatrnost
+ AnswB=podélné stání
+ AnswC=zákaz stání
+ AnswD=zákaz zastavení
+ AnsIs=d
+[314]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v12d.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=podélné stání
+ AnswB=upozornìní na místo vyadující zvıšenou opatrnost
+ AnswC=zákaz stání
+ AnswD=zákaz zastavení
+ AnsIs=c
+[315]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v12e.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=èasovì omezené stání
+ AnswB=bílá klikatá èára
+ AnswC=vyhrazené parkovištì
+ AnswD=upozornìní na místo vyadující zvıšenou opatrnost
+ AnsIs=bd
+[316]
+ Query=Tato vodorovná dopravní znaèka
+ ImgNm=znacky/v13a.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=je upozornìní na místo vyadující zvıšenou opatrnost
+ AnswB=znamená zákaz parkování
+ AnswC=znamená šikmé rovnobìné èáry
+ AnswD=vyznaèuje plochu, do které je zakázáno vjídìt nebo na ni zasahovat nákladem, pokud to není nutné k objídìní, odboèování na místo leící mimo pozemní komunikaci nebo vjídìní na pozemní komunikaci z místa leící mimo pozemní komunikaci
+ AnsIs=cd
+[317]
+ Query=Tato vodorovná dopravní znaèka
+ ImgNm=znacky/v13b.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=se nazıvá køivky
+ AnswB=znamená zákaz parkování
+ AnswC=vyznaèuje plochu, do které je zakázáno vjídìt nebo na ni zasahovat nákladem, pokud to není nutné k objídìní, odboèování na místo leící mimo pozemní komunikaci nebo vjídìní na pozemní komunikaci z místa leící mimo pozemní komunikaci
+ AnswD=je upozornìní na místo vyadující zvıšenou opatrnost
+ AnsIs=ac
+[318]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v14.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=prostor pro cyklisty
+ AnswB=pozor, cyklisté
+ AnswC=bezpeènı odstup od cyklistù
+ AnswD=jízdní pruh pro cyklisty
+ AnsIs=d
+[319]
+ Query=Vodorovná dopravní znaèka
+ ImgNm=znacky/v15.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=je nápis na vozovce
+ AnswB=bezpeènı odstup
+ AnswC=zastávka
+ AnswD=vyjadøuje doplòující údaje, napøíklad "BUS", "TRAM", "PRAHA", "STOP", "ŠKOLA"
+ AnsIs=ad
+[320]
+ Query=Vıznam této dopravní znaèky je
+ ImgNm=znacky/v16.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=optická psychologická brzda
+ AnswB=bílá klikatá èára
+ AnswC=bezpeènı odstup
+ AnswD=pøechod pro chodce
+ AnsIs=c
+[321]
+ Query=Toto dopravní znaèka
+ ImgNm=znacky/v17.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=je optická psychologická brzda
+ AnswB=se nazıvá trojúhelníky
+ AnswC=se nazıvá bezpeènı odstup
+ AnswD=vyznaèuje nájezd na umìlou nerovnost na vozovce
+ AnsIs=bd
+[322]
+ Query=Tato dopravní znaèka
+ ImgNm=znacky/v18.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=se nazıvá bezpeènı odstup
+ AnswB=vyznaèuje plochu, do které je zakázáno vjídìt nebo na ni zasahovat nákladem, pokud to není nutné k objídìní, odboèování na místo leící mimo pozemní komunikaci nebo vjídìní na pozemní komunikaci z místa leící mimo pozemní komunikaci
+ AnswC=je optická psychologická brzda
+ AnswD=podélná èára souvislá
+ AnsIs=c
+[323]
+ Query=Tato dopravní znaèka
+ ImgNm=znacky/v19.gif
+ ImgWd=200
+ ImgHg=273
+ AnswA=vyznaèuje prostor urèenı pro cyklisty èekající na svìtelnı signál "Volno"
+ AnswB=vyznaèuje prostor urèenı pro cyklisty pøed pøechodem pro chodce
+ AnswC=se nazıvá prostor pro cyklisty
+ AnswD=se nazıvá zastav v bezpeèném odstupu od cyklistù
+ AnsIs=ac
+[324]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s1a.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál se smìrovou šipkou s èervenım svìtlem "Stùj!"
+ AnswB=signál s èervenım svìtlem "Volno"
+ AnswC=signál s èervenım svìtlem "Pozor!"
+ AnswD=signál s èervenım svìtlem "Stùj!"
+ AnsIs=d
+[325]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s1b.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál se lutım svìtlem "Volno"
+ AnswB=signál se lutım svìtlem "Pozor!"
+ AnswC=signál se lutım svìtlem "Volno"
+ AnswD=signál se smìrovou šipkou se lutım svìtlem "Pozor!"
+ AnsIs=b
+[326]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s1c.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál se zelenım svìtlem "Volno"
+ AnswB=signál se smìrovou šipkou se zelenım svìtlem "Volno"
+ AnswC=signál s kombinovanou smìrovou šipkou se zelenım svìtlem "Volno"
+ AnswD=signál pro chodce se znamením "Volno"
+ AnsIs=a
+[327]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s2a.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál s èervenım svìtlem "Stùj!"
+ AnswB=signál se smìrovou šipkou s èervenım svìtlem "Stùj!"
+ AnswC=signál s kombinovanou smìrovou šipkou s èervenım svìtlem "Stùj!"
+ AnswD=zakázanı vjezd vozidel do jízdního pruhu
+ AnsIs=b
+[328]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s2b.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál s kombinovanou smìrovou šipkou se lutım svìtlem "Pozor!"
+ AnswB=signál se lutım svìtlem "Pozor!"
+ AnswC=signál se smìrovou šipkou se lutım svìtlem "Pozor!"
+ AnswD=signál pro chodce se znamením "Stùj!"
+ AnsIs=c
+[329]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s2c.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál se zelenım svìtlem "Volno"
+ AnswB=signál s kombinovanou smìrovou šipkou se zelenım svìtlem "Volno"
+ AnswC=doplòková zelená šipka
+ AnswD=signál se smìrovou šipkou se zelenım svìtlem "Volno"
+ AnsIs=d
+[330]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s3a.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál s kombinovanou smìrovou šipkou s èervenım svìtlem "Stùj!"
+ AnswB=signál s kombinovanou smìrovou šipkou s èervenım svìtlem "Pozor!"
+ AnswC=signál s kombinovanou smìrovou šipkou s èervenım svìtlem "Volno!"
+ AnswD=signál s èervenım svìtlem "Stùj!"
+ AnsIs=a
+[331]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s3b.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=zakázanı vjezd vozidel do jízdního pruhu
+ AnswB=signál se lutım svìtlem "Pozor!"
+ AnswC=signál se smìrovou šipkou se lutım svìtlem "Pozor!"
+ AnswD=signál s kombinovanou smìrovou šipkou se lutım svìtlem "Pozor!"
+ AnsIs=d
+[332]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s3c.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=doplòková zelená šipka
+ AnswB=signál s kombinovanou smìrovou šipkou se zelenım svìtlem "Volno"
+ AnswC=volnı vjezd vozidel do jízdního pruhu
+ AnswD=svìtelná šipka vpravo
+ AnsIs=b
+[333]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s4.gif
+ ImgWd=180
+ ImgHg=180
+ AnswA=signál lutého svìtla ve tvaru chodce
+ AnswB=signál se lutım svìtlem "Pozor!"
+ AnswC=signál pro opuštìní køiovatky
+ AnswD=upozoròuje na pøecházející chodce nebo pøejídìjící cyklisty ve volném smìru
+ AnsIs=ad
+[334]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s5.gif
+ ImgWd=180
+ ImgHg=180
+ AnswA=volnı vjezd vozidel do jízdního pruhu
+ AnswB=signál se zelenım svìtlem "Volno"
+ AnswC=signál pro opuštìní køiovatky
+ AnswD=doplòková zelená šipka
+ AnsIs=d
+[335]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s6.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=volnı vjezd vozidel do jízdního pruhu
+ AnswB=doplòková zelená šipka
+ AnswC=signál se zelenım svìtlem "Volno"
+ AnswD=signál pro opuštìní køiovatky
+ AnsIs=d
+[336]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s7.gif
+ ImgWd=180
+ ImgHg=180
+ AnswA=upozoròuje na pøecházející chodce nebo pøejídìjící cyklisty ve volném smìru
+ AnswB=signál pro cyklisty se znamením "Volno"
+ AnswC=pøerušované luté svìtlo
+ AnswD=rychlostní signál s promìnnım signálním znakem
+ AnsIs=ac
+[337]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s8a.gif
+ ImgWd=213
+ ImgHg=200
+ AnswA=volnı vjezd vozidel do jízdního pruhu
+ AnswB=rychlostní signál s promìnnım signálním znakem
+ AnswC=zakázanı vjezd vozidel do jízdního pruhu
+ AnswD=signál pro tramvaj "Stùj"
+ AnsIs=c
+[338]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s8b.gif
+ ImgWd=200
+ ImgHg=200
+ AnswA=volnı vjezd vozidel do jízdního pruhu
+ AnswB=rychlostní signál s promìnnım signálním znakem
+ AnswC=zakázanı vjezd vozidel do jízdního pruhu
+ AnswD=signál pro tramvaj "Volno"
+ AnsIs=a
+[339]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s8c.gif
+ ImgWd=211
+ ImgHg=200
+ AnswA=signál pro opuštìní køiovatky
+ AnswB=svìtelná šipka vpravo
+ AnswC=svìtelná šipka vlevo
+ AnswD=pøerušované luté svìtlo
+ AnsIs=c
+[340]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s8d.gif
+ ImgWd=211
+ ImgHg=200
+ AnswA=signál pro opuštìní køiovatky
+ AnswB=svìtelná šipka vpravo
+ AnswC=svìtelná šipka vlevo
+ AnswD=pøerušované luté svìtlo
+ AnsIs=b
+[341]
+ Query=Vıznam tohoto svìtelného signálu:
+ ImgNm=znacky/s8e.gif
+ ImgWd=211
+ ImgHg=200
+ AnswA=pøerušované luté svìtlo
+ AnswB=oznaèení pøekáky provozu na pozemních komunikacích
+ AnswC=signál se lutım svìtlem "Pozor!"
+ AnswD=je svìtelnı køí
+ AnsIs=bd
+[342]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s9a.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál s èervenım svìtlem "Stùj!"
+ AnswB=signál pro chodce se znamením "Volno"
+ AnswC=signál pro chodce se znamením "Stùj!"
+ AnswD=signál pro cyklisty se znamením "Stùj!"
+ AnsIs=c
+[343]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s9b.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál se zelenım svìtlem "Volno"
+ AnswB=signál pro chodce se znamením "Volno"
+ AnswC=signál pro chodce se znamením "Stùj!"
+ AnswD=signál pro cyklisty se znamením "Volno"
+ AnsIs=b
+[344]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s10a.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál pro cyklisty se znamením "Stùj!"
+ AnswB=signál pro cyklisty se znamením "Pozor!"
+ AnswC=signál pro cyklisty se znamením "Volno"
+ AnswD=signál pro chodce se znamením "Stùj!"
+ AnsIs=a
+[345]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s10b.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál pro cyklisty se znamením "Volno"
+ AnswB=upozoròuje na pøecházející chodce nebo pøejídìjící cyklisty ve volném smìru
+ AnswC=signál pro chodce se znamením "Pozor!"
+ AnswD=signál pro cyklisty se znamením "Pozor!"
+ AnsIs=bd
+[346]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s10c.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál pro chodce a cyklisty se znamením "Volno!"
+ AnswB=signál pro cyklisty se znamením "Volno"
+ AnswC=signál pro cyklisty se znamením "Pozor!"
+ AnswD=rychlostní signál s více signálními znaky
+ AnsIs=b
+[347]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s11a.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál pro chodce a cyklisty se znamením "Stùj!"
+ AnswB=signál pro chodce a cyklisty se znamením "Pozor!"
+ AnswC=signál pro chodce se znamením "Stùj!"
+ AnswD=signál pro cyklisty se znamením "Stùj!"
+ AnsIs=a
+[348]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s11b.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál pro chodce se znamením "Pozor!"
+ AnswB=upozoròuje na pøecházející chodce nebo pøejídìjící cyklisty ve volném smìru
+ AnswC=signál pro chodce a cyklisty se znamením "Pozor!"
+ AnswD=signál pro cyklisty se znamením "Pozor!"
+ AnsIs=bc
+[349]
+ Query=Vıznam tohoto svìtelného signálu je:
+ ImgNm=znacky/s11c.gif
+ ImgWd=150
+ ImgHg=267
+ AnswA=signál pro chodce a cyklisty se znamením "Pozor"
+ AnswB=signál pro chodce a cyklisty se znamením "Stùj"
+ AnswC=signál pro cyklisty se znamením "Volno"
+ AnswD=signál pro chodce a cyklisty se znamením "Volno"
+ AnsIs=d
